@@ -22,7 +22,7 @@ BE in AI & Data Science, learning Python and front-end development by building r
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KrithikPoojary&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrithikPoojary&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=KrithikPoojary&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 ---
 
