@@ -15,7 +15,7 @@ BE in AI & Data Science, learning Python and front-end development by building r
 
 ### 📊 GitHub Stats
 
-![Total Projects](https://img.shields.io/badge/Total%20Projects-24-1a1b27?style=for-the-badge&labelColor=0d1117)
+![Total Projects](https://img.shields.io/badge/Total%20Projects-25-1a1b27?style=for-the-badge&labelColor=0d1117)
 
 <p>
 <img src="https://github-stats-extended.vercel.app/api?username=KrithikPoojary&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Krithik's GitHub stats" height="165"/>
